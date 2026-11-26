@@ -1,5 +1,5 @@
 {
- "made": "2026-11-25T01:11:48.056Z",
+ "made": "2026-11-26T17:23:59.762Z",
  "viewport": {
   "width": 390,
   "height": 844
@@ -7,7 +7,7 @@
  "states": {
   "home": {
    "url": "/km/",
-   "found": 67,
+   "found": 68,
    "images": 18
   },
   "home-footer": {
@@ -440,42 +440,49 @@
   "home:body.main.div9.dl.dt3": {
    "img": "home-17.webp",
    "x": 20,
-   "y": 459,
+   "y": 440,
    "w": 87,
    "h": 28
+  },
+  "home:body.main.footer.a2": {
+   "img": "home-17.webp",
+   "x": 138,
+   "y": 679,
+   "w": 113,
+   "h": 16
   },
   "home:body.main.footer.div.nav:aria-label": {
    "img": "home-17.webp",
    "x": 20,
-   "y": 716,
+   "y": 717,
    "w": 86,
    "h": 33
   },
   "home:body.main.footer.div.div:aria-label": {
    "img": "home-17.webp",
    "x": 218,
-   "y": 716,
+   "y": 717,
    "w": 152,
    "h": 33
   },
   "home:body.main.footer.div.div.button1": {
    "img": "home-17.webp",
    "x": 222,
-   "y": 720,
+   "y": 721,
    "w": 70,
    "h": 25
   },
   "home:body.main.footer.div.div.button2": {
    "img": "home-17.webp",
    "x": 292,
-   "y": 720,
+   "y": 721,
    "w": 30,
    "h": 25
   },
   "home:body.main.footer.div.div.button3": {
    "img": "home-17.webp",
    "x": 322,
-   "y": 720,
+   "y": 721,
    "w": 44,
    "h": 25
   },

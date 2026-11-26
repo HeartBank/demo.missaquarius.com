@@ -5,8 +5,8 @@
  "about": "The pageant institution's site: the annual selection of Miss Aquarius's embodied form (no cycle is scheduled yet).",
  "about_km": "គេហទំព័ររបស់ស្ថាប័នប្រកួតបវរកញ្ញា៖ ការជ្រើសរើសប្រចាំឆ្នាំ នូវរូបកាយដែលតំណាង Miss Aquarius (មិនទាន់មានជុំណាមួយត្រូវបានកំណត់នៅឡើយទេ)។",
  "accent": "#7a1d1d",
- "made": "2026-11-24",
- "commit": "9b81db6",
+ "made": "2026-11-26",
+ "commit": "193f440",
  "groups": [
   {
    "name": "The front page",
@@ -513,6 +513,13 @@
      "km": "ប្រធានប្រតិបត្តិ៖",
      "note": "under “Honest limitations”",
      "note_km": "ក្រោម «ដែនកំណត់ ដែលយើងប្រាប់ដោយស្មោះត្រង់»"
+    },
+    {
+     "key": "home:body.main.footer.a2",
+     "en": "Privacy policy",
+     "km": "គោលការណ៍ឯកជនភាព",
+     "note": "a link, the footer",
+     "note_km": "តំណ · បាតទំព័រ"
     },
     {
      "key": "home:body.main.footer.div.nav:aria-label",
